@@ -16,22 +16,10 @@ linkedin: http://www.linkedin.com/in/yubin-kim-1bb6a32a6
 
 twitter: @ybkim_2718
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-</head>
-<body>
 
-<!-- README 내용 시작 -->
 ## CV
 
 [download file](김유빈_cv.pdf)
-<!-- README 내용 끝 -->
 
-</body>
-</html>
 
 
