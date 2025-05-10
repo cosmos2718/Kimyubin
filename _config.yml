@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kimyubin's Website"
+title                    : "Yubin's Website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kim yubin"
@@ -103,7 +103,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Seoul, Korea"
-  email            : cosmos2718@ewhain.net
+  email            : cosmos2718@ewha.ac.kr
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -285,3 +285,4 @@ defaults:
       comments: # true
       share: true
       related: true
+
