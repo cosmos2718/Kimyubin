@@ -3,7 +3,9 @@
 Welcome to Yubin's page
 
 Undergraduate student in Ewha Womans University, Department of Physics
+
 Currently a senior physics major, minoring in math and philosophy.
+
 My research interests are in astrophysics, with particular interest in gravitational waves, multi-messenger astronomy, and artificial intelligence.
 
 
