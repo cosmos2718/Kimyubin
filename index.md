@@ -17,7 +17,6 @@ webpage: https://cosmos2718.github.io/Kimyubin/
 
 linkedin: http://www.linkedin.com/in/yubin-kim-1bb6a32a6
 
-twitter: @ybkim_2718
 
 
 ## CV
