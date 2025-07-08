@@ -1,7 +1,6 @@
 
 # "Welcome to Yubin Kim's Page"
-layout: single
-permalink: /
+
 ---
 author_profile: true 
 ---
