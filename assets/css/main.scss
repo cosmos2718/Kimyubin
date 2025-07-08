@@ -11,6 +11,15 @@
 .sidebar__inner {
   width: 360px !important;
 }
+// 본문 내용이 겹치지 않게 여백 조정
+.page__content {
+  margin-left: 400px !important;  // 사이드바보다 약간 더 크게
+}
+
+.archive__item {
+  margin-left: 400px !important;
+}
+
 
 // 커스텀 프로필 이미지 스타일
 .sidebar .author__avatar img {
