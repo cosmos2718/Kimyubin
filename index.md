@@ -1,9 +1,9 @@
 ---
-# "Welcome to Yubin Kim's Page"
 layout: single
 permalink: /
 author_profile: true 
 ---
+# "Welcome to Yubin Kim's Page"
 
 ### About Me
 
