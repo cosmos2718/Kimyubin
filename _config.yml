@@ -14,7 +14,7 @@
 remote_theme           : "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-remote-theme
-minimal_mistakes_skin    : "defalt" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+#minimal_mistakes_skin    : "defalt" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
