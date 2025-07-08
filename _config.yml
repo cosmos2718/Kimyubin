@@ -17,7 +17,7 @@ url: "https://cosmos2718.github.io"
 baseurl: "/Kimyubin"
 repository: "cosmos2718/Kimyubin"
 teaser:
-logo: "/assets/images/Kimyubin_profile.jpg"
+logo: "/assets/images/Kimyubin.jpg"
 masthead_title: "Yubin Kim"
 
 words_per_minute: 200
@@ -26,7 +26,7 @@ words_per_minute: 200
 author:
   name: "Yubin Kim"
   avatar: "/assets/images/Kimyubin.jpg"
-  bio: "Physics student | Astrophysics | Gravitational Waves"
+  bio: "Astrophysics | Gravitational Waves | Multi-messenger astronomy"
   location: "Seoul, Korea"
   email: "cosmos2718@ewha.ac.kr"
   links:
