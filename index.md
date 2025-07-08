@@ -1,8 +1,7 @@
---
-layout: single
+--- 
+layout: home
 title: "Welcome to Yubin Kim's Page"
 permalink: /
----
 author_profile: true 
 ---
 ### About Me
