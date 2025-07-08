@@ -3,6 +3,15 @@
 
 @import "minimal-mistakes";
 
+// 사이드바 너비 커스터마이징
+.sidebar {
+  width: 360px !important;  // 원하는 너비 (예: 360px로 설정)
+}
+
+.sidebar__inner {
+  width: 360px !important;
+}
+
 // 커스텀 프로필 이미지 스타일
 .sidebar .author__avatar img {
   object-fit: contain;   // 원본 비율 유지
