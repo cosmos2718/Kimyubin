@@ -8,7 +8,7 @@ author_profile: true
 
 I am currently a senior undergraduate student in the Department of Physics at Ewha Womans University. I am majoring in physics and minoring in mathematics and philosophy.
 
-My research interests lie in astrophysics, particularly gravitational waves, multi-messenger astronomy, and artificial intelligence. Recently, I have developed a strong interest in **astroinformatics**—the integration of astronomy and data science to gain new insights from gravitational wave observatory data.
+My research interests lie in astrophysics, particularly **gravitational waves**, multi-messenger astronomy, and artificial intelligence. Recently, I have developed a strong interest in **astroinformatics**—the integration of astronomy and data science to gain new insights from gravitational wave observatory data.
 
 ---
 
