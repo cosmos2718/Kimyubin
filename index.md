@@ -1,4 +1,7 @@
-# Welcome to Yubin Kim's Page
+---
+layout: home
+#title: "Welcome to Yubin Kim's website"
+author_profile: true
 
 ## About me
 
