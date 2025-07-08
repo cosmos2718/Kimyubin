@@ -5,19 +5,11 @@
 
 // 사이드바 너비 커스터마이징
 .sidebar {
-  width: 360px !important;  // 원하는 너비
+  width: 350px !important;  // 원하는 너비
 }
 
 .sidebar__inner {
-  width: 360px !important;
-}
-// 본문 내용이 겹치지 않게 여백 조정
-.page__content {
-  margin-left: 400px !important;  // 사이드바보다 약간 더 크게
-}
-
-.archive__item {
-  margin-left: 400px !important;
+  width: 350px !important;
 }
 
 
