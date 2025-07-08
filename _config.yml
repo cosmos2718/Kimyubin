@@ -39,9 +39,6 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://cosmos2718.github.io/Kimyubin/"
-    - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/@mulli_babo"
 
 # Enable sidebar with bio and avatar
 sidebar:
