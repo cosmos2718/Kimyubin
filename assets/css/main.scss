@@ -2,7 +2,13 @@
 ---
 
 @import "minimal-mistakes";
-.sidebar .author__avatar image{ 
-    object-fit: contain;
-    border-radius: 0%;
+
+// 커스텀 프로필 이미지 스타일
+.sidebar .author__avatar img {
+  object-fit: contain;   // 원본 비율 유지
+  border-radius: 0%;     // 둥글지 않게 설정
+  width: auto;           // 너비 자동
+  height: auto;          // 높이 자동
+  max-width: 100%;       // 사이드바 너비에 맞춰 크기 조절
+  display: block;
 }
