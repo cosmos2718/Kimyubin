@@ -133,10 +133,15 @@ author:
       # url: "https://instagram.com/"
 
 # Enable sidebar with bio and avatar
+# sidebar:
+#   nav: "docs"  # 또는 필요 없으면 이 줄 생략 가능
+#   avatar: true
+#   bio: true
 sidebar:
-  nav: "docs"  # 또는 필요 없으면 이 줄 생략 가능
-  avatar: true
+  nav: "sidebar"  # 또는 false면 true로 바꾸기
+  show_avatar: true  # ← 이 줄이 **없으면 아예 안 보일 수 있음**
   bio: true
+
 
 # Site Footer
 footer:
