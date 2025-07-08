@@ -1,3 +1,5 @@
+# Welcome to Yubin Kim's Page
+
 ## About me
 
 I am currently a senior undergraduate student in the Department of Physics at Ewha Womans University. I am majoring in physics and minoring in mathematics and philosophy.
@@ -20,7 +22,7 @@ linkedin: [Yubin Kim on LinkedIn](http://www.linkedin.com/in/yubin-kim-1bb6a32a6
 
 ## Hobbies
 
-I enjoy reading books from a wide range of fields, especially in the natural sciences. I also love watching musicals, listening to music, playing the bass guitar, drawing, and creating videos.
+I enjoy reading books from a wide range of fields, especially in the natural sciences. I also love watching musicals, listening to music, drawing, and creating videos.
 
 You can watch some educational videos I’ve uploaded on my YouTube channel, [@mulli_babo](https://www.youtube.com/@mulli_babo).
 
