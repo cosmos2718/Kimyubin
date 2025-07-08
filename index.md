@@ -1,10 +1,10 @@
 ---
 layout: single
+---
+title: "Welcome to Yubin Kim's Page"
 permalink: /
 author_profile: true 
 ---
-# "Welcome to Yubin Kim's Page"
-
 ### About Me
 
 I am currently a senior undergraduate student in the Department of Physics at Ewha Womans University. I am majoring in physics and minoring in mathematics and philosophy.
