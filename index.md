@@ -22,7 +22,7 @@ My research interests lie in astrophysics, particularly **gravitational waves**,
 
 ### CV
 
-📄 [Download CV (PDF)](YubinKim_CV_2025_07.pdf)
+📄 [Download CV (PDF)](YubinKim_CV_2025_0718.pdf)
 
 ---
 
