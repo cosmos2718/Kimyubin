@@ -1,3 +1,3 @@
 ## my cv
 
-[file download](YubinKim_CV_2025_07.pdf)
+[file download](YubinKim_CV_2025_12.pdf)
