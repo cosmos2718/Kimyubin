@@ -29,6 +29,10 @@ My research interests lie in astrophysics, particularly **gravitational waves**,
 ### Hobbies
 
 I enjoy reading books from a wide range of fields, especially in the natural sciences and SF novels. I also love baking, listening to music, drawing, and creating videos.
+This is a photo of the physics cookie I make every year on my birthday.
+<p align="right">
+  <img src="/assets/images/Cookie.jpg" width="180">
+</p>
 
 You can watch some educational videos I’ve uploaded on my YouTube channel, [@mulli_babo](https://www.youtube.com/@mulli_babo).
 
