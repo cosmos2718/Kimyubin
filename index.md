@@ -3,6 +3,8 @@ layout: single
 title: "Welcome to Yubin Kim's Page"
 permalink: /
 author_profile: true 
+header:
+  og_image: /assets/images/Kimyubin_New.jpg
 ---
 ### About Me
 
