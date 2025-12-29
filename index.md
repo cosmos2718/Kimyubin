@@ -22,13 +22,13 @@ My research interests lie in astrophysics, particularly **gravitational waves**,
 
 ### CV
 
-📄 [Download CV (PDF)](/Kimyubin/YubinKim_CV_2025_08.pdf)
+📄 [Download CV (PDF)](/Kimyubin/YubinKim_CV_2025_12.pdf)
 
 ---
 
 ### Hobbies
 
-I enjoy reading books from a wide range of fields, especially in the natural sciences and SF novels. I also love watching musicals, listening to music, drawing, and creating videos.
+I enjoy reading books from a wide range of fields, especially in the natural sciences and SF novels. I also love baking, listening to music, drawing, and creating videos.
 
 You can watch some educational videos I’ve uploaded on my YouTube channel, [@mulli_babo](https://www.youtube.com/@mulli_babo).
 
