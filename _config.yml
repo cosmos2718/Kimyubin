@@ -5,6 +5,11 @@ remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
 
 # Site Settings
 locale: "en-US"
@@ -19,6 +24,12 @@ repository: "cosmos2718/Kimyubin"
 teaser:
 logo: "/assets/images/Kimyubin_New.jpg"
 masthead_title: "Yubin Kim"
+
+words_per_minute: 200
+
+# [핵심 추가] 상단 네비게이션 바를 활성화합니다.
+# _data/navigation.yml 파일의 'main' 항목을 참조하게 됩니다.
+main_menu: "main" 
 
 words_per_minute: 200
 
