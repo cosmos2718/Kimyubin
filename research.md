@@ -11,7 +11,7 @@ author_profile: true
 **Full-time Research Intern (2026)**  
 
 - Developing a machine learning-based tool for correlating auxiliary channels with transient noise in gravitational-wave detectors.
-  -🖼️ Presented poster at the JpGU-AGU 2026 meeting ([Poster PDF](assets/JpGU_Poster.pdf))
+  - 🖼️ Presented poster at the JpGU-AGU 2026 meeting ([Poster PDF](assets/JpGU_Poster.pdf))
 - Conducting Newtonian noise analysis using superconducting gravimeters at the Yemi Gravity Observatory, an underground experimental facility located in Mt. Yemi, Gangwon-Do, South Korea.
 
 ---
@@ -20,8 +20,8 @@ author_profile: true
 **Undergraduate Research Intern (2025)**  
 
 - Developed unsupervised deep learning models for gravitational-wave glitch classification using LIGO and KAGRA datasets.
-  -🖼️ Presented poster at the KAGRA 2025 International Workshop ([Poster PDF](assets/KAGRA_poster_Yubinkim.pdf))
-  -🎤 Oral presentation at KAS 2025 meeting ([Slides](assets/KAS_Yubinkim.pdf))
+  - 🖼️ Presented poster at the KAGRA 2025 International Workshop ([Poster PDF](assets/KAGRA_poster_Yubinkim.pdf))
+  - 🎤 Oral presentation at KAS 2025 meeting ([Slides](assets/KAS_Yubinkim.pdf))
 - Built machine learning models using Gaia and SDSS datasets to estimate astrophysical distances from photometric and spectroscopic observations.
 
 ---
