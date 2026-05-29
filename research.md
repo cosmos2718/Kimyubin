@@ -5,7 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research Experience
 
 ### National Institute for Mathematical Sciences (NIMS)
 **Full-time Research Intern (2026)**  
