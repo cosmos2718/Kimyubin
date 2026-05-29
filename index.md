@@ -12,7 +12,7 @@ I am currently a researcher at the National Institute for Mathematical Sciences 
 
 My research interests lie in astrophysics, particularly **gravitational waves**, multi-messenger astronomy, and artificial intelligence. Recently, I have developed a strong interest in **astroinformatics**—the integration of astronomy and data science to gain new insights from gravitational wave observatory data.
 
-I am a member of KAGRA collaboration and Einstein Telescope collaboration. I develop machine learning tools for gravitational wave detector characterization and data analysis.
+I am a member of KAGRA collaboration and Einstein Telescope collaboration. I develop machine learning tools for gravitational wave detector characterization and data analysis. For more details about my research and publications, please refer to the Research tab.
 
 ---
 
@@ -21,12 +21,6 @@ I am a member of KAGRA collaboration and Einstein Telescope collaboration. I dev
 - 📧 Email: [cosmos2718@ewha.ac.kr](mailto:cosmos2718@ewha.ac.kr)  
 - 🌐 Webpage: [https://cosmos2718.github.io/Kimyubin/](https://cosmos2718.github.io/Kimyubin/)  
 - 💼 LinkedIn: [Yubin Kim on LinkedIn](http://www.linkedin.com/in/yubin-kim-1bb6a32a6)
-
----
-
-### CV
-
-📄 [Download CV (PDF)](/Kimyubin/YubinKim_CV_202605.pdf)
 
 ---
 
