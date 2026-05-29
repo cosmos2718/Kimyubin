@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Research Experience
+# Research Experience
 
 ### National Institute for Mathematical Sciences (NIMS)
 **Full-time Research Intern (2026)**  
@@ -36,7 +36,7 @@ author_profile: true
 
 ---
 
-###Astrophysics Lab, Ewha Womans University
+### Astrophysics Lab, Ewha Womans University
 **Undergraduate Research Intern (2023)**  
 
 - Updated astrophysical S-factors from literatures and investigated nuclear reaction rates related to carbon fusion in massive stars.
