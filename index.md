@@ -8,9 +8,11 @@ header:
 ---
 ### About Me
 
-I am currently a senior undergraduate student in the Department of Physics at Ewha Womans University. I am majoring in physics and minoring in mathematics and philosophy.
+I am currently a researcher at the National Institute for Mathematical Sciences (NIMS) in Daejeon, South Korea. I majored in physics, with minors in mathematics and philosophy, during my undergraduate studies at Ewha Womans University.
 
 My research interests lie in astrophysics, particularly **gravitational waves**, multi-messenger astronomy, and artificial intelligence. Recently, I have developed a strong interest in **astroinformatics**—the integration of astronomy and data science to gain new insights from gravitational wave observatory data.
+
+I am a member of KAGRA collaboration and Einstein Telescope collaboration. I develop machine learning tools for gravitational wave detector characterization and data analysis.
 
 ---
 
@@ -34,7 +36,7 @@ My research interests lie in astrophysics, particularly **gravitational waves**,
      class="align-right"
      style="width:150px; margin:0 0 10px 20px;"
      alt="Physics cookie">
-I enjoy reading books from a wide range of fields, especially in the natural sciences and SF novels. I also love baking, listening to music, drawing, and creating videos.
+I enjoy reading books from a wide range of fields, especially in the natural sciences and SF novels. I also love baking, listening to music, playing base guitar, and creating videos.
 You can see a photo of the physics cookie I make every year on my birthday.
 <div style="clear: both;"></div>
 
