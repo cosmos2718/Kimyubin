@@ -32,7 +32,7 @@ author_profile: true
 - Conducted a systematic literature review on deep learning applications for gravitational-wave data analysis.
 - Investigated multimodal large language models for interpreting and reasoning over gravitational-wave spectrograms.
 - Explored AI carbon-emission measurement and visualization tools through a systematic literature review.
-  - 🎤 Oral presentation & Published preceeding at HCI Korea 2025 ([Slides](assets/HCIK2025.pdf))
+  - 🎤 Oral presentation & Published preceeding at HCI Korea 2025 ([Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12131542))
 
 ---
 
