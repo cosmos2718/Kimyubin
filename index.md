@@ -10,9 +10,11 @@ header:
 
 I am currently a researcher at the National Institute for Mathematical Sciences (NIMS) in Daejeon, South Korea. I majored in physics, with minors in mathematics and philosophy, during my undergraduate studies at Ewha Womans University.
 
-My research interests lie in astrophysics, particularly **gravitational waves**, multi-messenger astronomy, and artificial intelligence. Recently, I have developed a strong interest in **astroinformatics**—the integration of astronomy and data science to gain new insights from gravitational wave observatory data.
+My research interests lie in astrophysics, particularly **gravitational waves**, multi-messenger astronomy, and artificial intelligence. Recentely, I have developed a strong interest in **astroinformatics**—the integration of astronomy and data science to gain new insights from gravitational wave detector data. You can visit the educational website for gravitational wave data analysis that I made with Claude code: [https://gw-learning.vercel.app/](https://gw-learning.vercel.app/)].
 
-I am a member of KAGRA collaboration and Einstein Telescope collaboration. I develop machine learning tools for gravitational wave detector characterization and data analysis. For more details about my research and publications, please refer to the Research tab.
+My main work is developing machine learning tools for gravitational wave detector characterization and data analysis, especially with KAGRA glitch data. I am also a member of Einstein Telescope collaboration. 
+
+For more details about my research and publications, please refer to the Research tab.
 
 ---
 
