@@ -29,7 +29,7 @@ author_profile: true
 ### Human-Centered Artificial Intelligence Lab, Seoul National University
 **Undergraduate Research Intern (2024)**  
 
-- Conducted a systematic literature review on deep learning applications for gravitational wave data analysis.
+- Conducted a systematic literature review on deep learning applications for gravitational wave data analysis. ([Slides](assets/SLR2025.pdf))
 - Investigated multimodal large language models for interpreting and reasoning over gravitational wave spectrograms.
 - Explored AI carbon-emission measurement and visualization tools through a systematic literature review.
   - 🎤 Oral presentation & Published preceeding at HCI Korea 2025 ([Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12131542))
