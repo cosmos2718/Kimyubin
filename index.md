@@ -10,9 +10,9 @@ header:
 
 I am currently a researcher at the National Institute for Mathematical Sciences (NIMS) in Daejeon, South Korea. I majored in physics, with minors in mathematics and philosophy, during my undergraduate studies at Ewha Womans University.
 
-My research interests lie in astrophysics, particularly **gravitational waves**, multi-messenger astronomy, and artificial intelligence. Recentely, I have developed a strong interest in **astroinformatics**—the integration of astronomy and data science to gain new insights from gravitational wave detector data. You can visit the educational website for gravitational wave data analysis that I made with Claude code: [https://gw-learning.vercel.app/](https://gw-learning.vercel.app/).
+My research interests lie in astrophysics, particularly **gravitational waves**, multi-messenger astronomy, and artificial intelligence. Recently, I have developed a strong interest in **astroinformatics**—the integration of astronomy and data science to gain new insights from gravitational wave detector data. You can visit the educational website for gravitational wave data analysis that I made with Claude code: [https://gw-learning.vercel.app/](https://gw-learning.vercel.app/).
 
-I am a member of Einstein Telescope collaboration, developing machine learning tools for gravitational wave data analysis. 
+I am a member of KAGRA and Einstein Telescope collaboration, developing machine learning tools for gravitational wave data analysis, especially detector characterization.  
 For more details about my research and publications, please refer to the Research tab.
 
 ---
@@ -31,7 +31,7 @@ For more details about my research and publications, please refer to the Researc
      class="align-right"
      style="width:150px; margin:0 0 10px 20px;"
      alt="Physics cookie">
-I enjoy reading books from a wide range of fields, especially in the natural sciences and SF novels. I also love baking, listening to music, playing base guitar, and creating videos.
+I enjoy reading books from a wide range of fields. I also love baking, listening to music, playing base guitar, tennis, and creating videos.
 You can see a photo of the physics cookie I make every year on my birthday.
 <div style="clear: both;"></div>
 
