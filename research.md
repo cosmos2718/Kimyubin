@@ -12,7 +12,7 @@ author_profile: true
 
 - Developing a machine learning-based tool for correlating auxiliary channels with transient noise in gravitational wave detectors.
   - 🖼️ Presented poster at the JpGU-AGU 2026 meeting ([Poster PDF](assets/JpGU_Poster.pdf))
-- Conducting Newtonian noise analysis using superconducting gravimeters at the Yemi Gravity Observatory, an underground experimental facility located in Mt. Yemi, Gangwon-Do, South Korea.
+- Managed superconducting gravimeters at the Yemi gravity observatory (an underground experimental facility located in Mt. Yemi, Gangwon-Do, South Korea) to analyze Newtonian noise.
 
 ---
 
