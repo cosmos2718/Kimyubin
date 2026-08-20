@@ -6,6 +6,6 @@ author_profile: true
 ---
 
 
-📄 [Download my full CV (PDF)]({{ site.baseurl }}/YubinKim_CV_202608.pdf)
+📄 [Download my full CV (PDF)]({{ site.baseurl }}/YubinKim_CV_260820.pdf)
 
   ( Last update on August 2026 )
