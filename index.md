@@ -31,7 +31,7 @@ For more details about my research and publications, please refer to the Researc
      class="align-right"
      style="width:150px; margin:0 0 10px 20px;"
      alt="Physics cookie">
-I enjoy reading books from a wide range of fields. I also love baking, listening to music, playing base guitar, tennis, and creating videos.
+I enjoy reading books from a wide range of fields. I also love baking, drawing, listening to band music, playing tennis, and creating videos.
 You can see a photo of the physics cookie I make every year on my birthday.
 <div style="clear: both;"></div>
 
