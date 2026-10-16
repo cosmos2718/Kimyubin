@@ -11,7 +11,7 @@ author_profile: true
 **Full-time Research Intern (2026)**  
 
 - Developing an agentic Vision-Language Model pipeline for zero-shot gravitational wave glitch classification.
-  - 🎤 Oral presentation at KAS 2026 Fall meeting ([Slides](assets/KAS2026_Yubinkim.pdf))
+  - 🎤 Oral presentation at KAS 2026 Fall meeting ([Slides](assets/KAS2026_YubinKim.pdf))
 - Developing a machine learning-based tool for correlating auxiliary channels with transient noise in gravitational wave detectors.
   - 🖼️ Presented poster at the JpGU-AGU 2026 meeting ([Poster PDF](assets/JpGU_Poster.pdf))
 - Managed superconducting gravimeters at the Yemi gravity observatory (an underground experimental facility located in Mt. Yemi, Gangwon-Do, South Korea) to analyze Newtonian noise.
@@ -22,7 +22,7 @@ author_profile: true
 **Undergraduate Research Intern (2025)**  
 
 - Developed unsupervised deep learning models for gravitational wave glitch classification using LIGO and KAGRA datasets.
-  - 🖼️ Presented poster at the KAGRA 2025 International Workshop ([Poster PDF](assets/KAGRA_poster_Yubinkim.pdf))
+  - 🖼️ Presented poster at the KAGRA 2025 International Workshop ([Poster PDF](assets/KAGRA_poster_YubinKim.pdf))
   - 🎤 Oral presentation at KAS 2025 Fall meeting ([Slides](assets/KAS_Yubinkim.pdf))
 - Built machine learning models using Gaia and SDSS datasets to estimate astrophysical distances from photometric and spectroscopic observations.
 
@@ -33,7 +33,7 @@ author_profile: true
 
 - Conducted a systematic literature review on deep learning applications for gravitational wave data analysis. 
 - Investigated multimodal large language models for interpreting and reasoning over gravitational wave spectrograms.
-  - 📄 Published in Mach. Learn.: Sci. Technol ([Paper](assets/MLST1013.pdf))
+  - 📄 Published in Mach. Learn.: Sci. Technol ([Paper](https://doi.org/10.1088/2632-2153/aea5d4))
 - Explored AI carbon-emission measurement and visualization tools through a systematic literature review.
   - 🎤 Oral presentation & Published preceeding at HCI Korea 2025 ([Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12131542))
 
